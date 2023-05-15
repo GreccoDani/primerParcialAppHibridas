@@ -1,0 +1,18 @@
+{
+  "name": "parcialapp",
+  "version": "1.0.0",
+  "description": "App web de proyectos",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "mongodb": "5.5",
+    "nodemon": "^2.0.22"
+  }
+}
